@@ -1,6 +1,6 @@
 ### CSA Africa Skills Gap Analysis — MSc Data Science Research Project
 
-This repository contains the code, dissertation report, data processing pipelines, and analyses for my **MSc Data Science dissertation project**, conducted in collaboration with **CSA Africa**.
+#### This repository contains the code, dissertation report, data processing pipelines, and analyses for my **MSc Data Science dissertation project**, conducted in collaboration with **CSA Africa**.
 ---
 Project Overview
 
@@ -16,7 +16,7 @@ It includes a combination of:
 - Machine learning
 - Natural language processing (NLP) of open-ended survey responses
 
-The goal is to deliver **insight-driven, evidence-based recommendations** for CSA Africa and potentially publishable findings.
+#### The goal is to deliver **insight-driven, evidence-based recommendations** for CSA Africa and potentially publishable findings.
 ---
 ### Repository Structure
 ├── ideas/              # initial ideas
