@@ -19,6 +19,7 @@ It includes a combination of:
 #### The goal is to deliver **insight-driven, evidence-based recommendations** for CSA Africa and potentially publishable findings.
 ---
 ### Repository Structure
+
 ├── ideas/              # initial ideas
 ├── instructions/       # instructions
 ├── report/             # reporting
