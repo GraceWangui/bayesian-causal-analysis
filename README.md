@@ -12,9 +12,10 @@ The aim of this research is to investigate the **digital and computing skills ga
 
 It includes a combination of:
 - Exploratory data analysis (EDA)
-- Statistical modelling
+- Bayesian modelling
+- Causal Analysis
 - Machine learning
-- Natural language processing (NLP) of open-ended survey responses
+- Possibly - Natural language processing (NLP) of open-ended survey responses
 
 #### The goal is to deliver **insight-driven, evidence-based recommendations** for CSA Africa and potentially publishable findings.
 ---
